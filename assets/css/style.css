@@ -1,0 +1,33 @@
+.logo{
+    width: 110px;
+    height: 90px;
+}
+
+body{
+    background-color: lightgray ;
+}
+
+#titulo{
+    text-align: center;
+}
+.container{
+    max-width: 40%;
+    max-height: 40%;
+}
+
+#uni1{
+    text-align: center;
+}
+
+#uni2{
+    text-align: center;
+}
+
+#uni3{
+    text-align: center;
+    background-image: url(.logo);
+}
+
+
+
+
